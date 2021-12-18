@@ -1,6 +1,6 @@
 # Run Buddy
 
-## Purpose
+## Purpose 1234
 A website that offers fitness training services.
 
 ## Built With

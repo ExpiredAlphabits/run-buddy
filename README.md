@@ -1,13 +1,13 @@
 # Run Buddy Inc.
 
-## Purpose 1234
+## Purpose
 A website that offers fitness training services.
 
-## Built With 5678
+## Built With
 * HTML
 * CSS
 
-## Website efgh
+## Website
 https://moses-ian.github.io/run-buddy/
 
 ## Contribution

@@ -12,3 +12,5 @@ https://moses-ian.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ian Moses
+
+### ©️2019 Run Buddy, Inc 
